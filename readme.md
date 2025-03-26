@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thauanbo/thauanbo/refs/heads/main/img/banner.png" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/thauanbo/thauanbo/refs/heads/main/img/banner-project.png" alt="Banner" width="100%">
 
 # Aula LTPO-Crud
 
